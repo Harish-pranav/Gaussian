@@ -60,7 +60,10 @@ for i in range(n):
 
 
 ## Output:
-<img width="749" height="579" alt="image" src="https://github.com/user-attachments/assets/bb31cc1a-c814-431c-a19e-035e469ca4c9" />
+<img width="722" height="584" alt="image" src="https://github.com/user-attachments/assets/5a358272-14b1-4c16-888e-95ca0325a54d" />
+<img width="480" height="264" alt="image" src="https://github.com/user-attachments/assets/2bd950f4-79a6-41db-b31b-8ac2f56e3b8f" />
+
+
 
 
 
